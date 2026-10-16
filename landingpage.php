@@ -7,11 +7,11 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="landing-page">
-  <div class="landing-bg"><img src="../2ndyrwebpics\landingpage.jpg" alt=""></div>
+  <div class="landing-bg"><img src="wbdvbpics/landingpage.jpg" alt=""></div>
   <div class="landing-overlay"></div>
 
   <main class="landing-content">
-    <img class="landing-logo" src="../2ndyrwebpics\Logo.png" alt="Moods Wing">
+    <img class="landing-logo" src="wbdvbpics/Logo.php" alt="Moods Wing">
     <h1>Unlimited Wings that gives back</h1>
     <p>Enjoy unlimited wings daily at Moods Wing, where a portion of our sales helps support easy entrees. Every visit, order and support means a lot, not only to us, but also to the ones we help feed and care for.</p>
     <p>Thank you for supporting Moods Wing and being part of something meaningful.</p>
@@ -21,8 +21,8 @@
     <p class="landing-note">get it delivered hot. Sign up for free!</p>
 
     <div class="btn-row">
-      <a href="login.html" class="btn btn-light">Log In</a>
-      <a href="register.html" class="btn btn-green">Sign Up</a>
+      <a href="loginpage.php" class="btn btn-light">Log In</a>
+      <a href="registerpage.php" class="btn btn-green">Sign Up</a>
     </div>
   </main>
 </body>

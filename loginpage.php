@@ -7,10 +7,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="login-page">
-  <div class="login-bg"><img src="../2ndyrwebpics\login - Copy - Copy.jpg" alt=""></div>
+  <div class="login-bg"><img src="wbdvbpics/login.jpg" alt=""></div>
 
   <form class="glass-card" action="#" method="post">
-    <img class="card-logo" src="images/mascot.png" alt="Moods Wing">
+    <img class="card-logo" src="wbdvbpics/" alt="Moods Wing">
     <h2 class="card-brand">Moods Wing</h2>
 
     <input type="text" class="pill-input" placeholder="Username" required>
@@ -23,7 +23,7 @@
 
     <button type="submit" class="btn btn-green btn-block">Login</button>
 
-    <p class="form-note">Don't have an account? <a href="register.html"><strong>Register now</strong></a></p>
+    <p class="form-note">Don't have an account? <a href="registerpage.php"><strong>Register now</strong></a></p>
   </form>
 </body>
 </html>

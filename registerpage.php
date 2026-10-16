@@ -24,11 +24,11 @@
 
       <button type="submit" class="btn btn-green btn-block">Sign Up</button>
 
-      <p class="form-note">Already have an account? <a href="login.html"><strong>Login</strong></a></p>
+      <p class="form-note">Already have an account? <a href="loginpage.php"><strong>Login</strong></a></p>
 
       <div class="social-login">
-        <a href="#"><img src="../2ndyrwebpics\fbicon.png" alt="Facebook"></a>
-        <a href="#"><img src="../2ndyrwebpics\Gmail_icon_(2020).svg.webp" alt="Gmail"></a>
+        <a href="#"><img src="wbdvbpics/registration.jpg" alt="Facebook"></a>
+        <a href="#"><img src="wbdvbpics/google-gmail-svgrepo-com.svg" alt="Gmail"></a>
       </div>
     </form>
   </section>

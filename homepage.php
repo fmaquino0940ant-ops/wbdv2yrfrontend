@@ -11,7 +11,7 @@
     <img class="nav-logo" src="../2ndyrwebpics\Logo.png" alt="Moods Wing">
     <nav>
       <a href="#" class="btn btn-yellow">Flavor Menu</a>
-      <a href="login.html" class="btn btn-yellow">Order</a>
+      <a href="loginpage.php" class="btn btn-yellow">Order</a>
       <a href="#" class="btn btn-yellow">Book a Table</a>
     </nav>
   </header>
@@ -19,7 +19,7 @@
  <main class="home-hero">
 
     <div class="hero-visual">
-        <img src="../2ndyrwebpics/homepage-visual.svg"
+        <img src="wbdvbpics/home.png"
              alt="What's your mood? A plate of wings with the Moods Wing mascot and floating wings"
              class="hero-visual-image">
     </div>
@@ -31,12 +31,12 @@
 
     <div class="socials">
         <a href="#">
-            <img src="../2ndyrwebpics/messenger-logo-thin-svgrepo-com.svg"
+            <img src="wbdvbpics/messenger-logo-thin-svgrepo-com.svg"
                  alt="Messenger">
         </a>
 
         <a href="#">
-            <img src="../2ndyrwebpics/gmail-svgrepo-com.svg"
+            <img src="wbdvbpics/gmail-svgrepo-com.svg"
                  alt="Email">
         </a>
     </div>

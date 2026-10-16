@@ -27,7 +27,7 @@
       <p class="form-note">Already have an account? <a href="loginpage.php"><strong>Login</strong></a></p>
 
       <div class="social-login">
-        <a href="#"><img src="wbdvbpics/registration.jpg" alt="Facebook"></a>
+        <a href="#"><img src="wbdvbpics/facebook-1-svgrepo-com.svg" alt="Facebook"></a>
         <a href="#"><img src="wbdvbpics/google-gmail-svgrepo-com.svg" alt="Gmail"></a>
       </div>
     </form>
@@ -35,7 +35,7 @@
 
   <section class="register-right">
     <img class="register-logo" src="../2ndyrwebpics\mascot.png" alt="Moods Wing">
-    <img class="register-photo" src="../2ndyrwebpics\registration - Copy.jpg" alt="">
+    <img class="register-photo" src="wbdvbpics/registration.jpg" alt="">
   </section>
 </body>
 </html>

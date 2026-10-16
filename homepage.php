@@ -8,7 +8,7 @@
 </head>
 <body class="home-page">
   <header class="home-nav">
-    <img class="nav-logo" src="../2ndyrwebpics\Logo.png" alt="Moods Wing">
+    <img class="nav-logo" src="wbdvbpics/Logo.png" alt="Moods Wing">
     <nav>
       <a href="#" class="btn btn-yellow">Flavor Menu</a>
       <a href="loginpage.php" class="btn btn-yellow">Order</a>

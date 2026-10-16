@@ -34,7 +34,7 @@
   </section>
 
   <section class="register-right">
-    <img class="register-logo" src="../2ndyrwebpics\mascot.png" alt="Moods Wing">
+    <img class="register-logo" src="wbdvbpics/mascot.png" alt="Moods Wing">
     <img class="register-photo" src="wbdvbpics/registration.jpg" alt="">
   </section>
 </body>

@@ -10,7 +10,7 @@
   <div class="login-bg"><img src="wbdvbpics/login.jpg" alt=""></div>
 
   <form class="glass-card" action="#" method="post">
-    <img class="card-logo" src="wbdvbpics/" alt="Moods Wing">
+    <img class="card-logo" src="wbdvbpics/mascot.png" alt="Moods Wing">
     <h2 class="card-brand">Moods Wing</h2>
 
     <input type="text" class="pill-input" placeholder="Username" required>
